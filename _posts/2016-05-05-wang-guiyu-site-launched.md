@@ -2,6 +2,7 @@
 layout: post
 title: "Wang Guiyu's Webpage, Launches Site"
 date: 2016-05-05
+url: /blog/2016/05/05/wang-guiyu-site-launched
 ---
 
 ## 1st Milestone on Learning GitHub
