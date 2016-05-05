@@ -3,7 +3,5 @@
 This repository focuses on managing the personal webpage for myself.
 
 ```C
-int a = 0;
-a++;
-printf("The value of a is: %d\r\n", a);
+printf("Hello world! I am a beginner in GitHub and this is my first try with Markdown!\r\n");
 ```
